@@ -58,6 +58,7 @@ Running the following:
 - iptables -A INPUT -p tcp --dport 80 -j ACCEPT
 - iptables -A INPUT -p tcp --dport 443 -j ACCEPT
 - iptables –L -v
+
 ![image](https://github.com/user-attachments/assets/3501767e-6b14-41e6-b66a-4e1c72462447)
 
 Adding the access of the Windows VM with ‘iptables -R INPUT 2 -s 10.11.71.5 -p tcp --dport 22 -j ACCEPT
