@@ -1,6 +1,6 @@
 <h1>Network Access Controls</h1>
 
-[Project 2:Network Access Controls](https://github.com/user-attachments/files/17102227/dombrowiak_CST620_Project1.pdf)
+[Project 2:Network Access Controls](https://github.com/user-attachments/files/17174727/dombrowiak_CST620_Project2.pdf)
 
 <h2>Description</h2>
 Focusing more on the Linux Firewall using IPTables. Getting a better understanding with it and exploring more advanced features with IPTables.
